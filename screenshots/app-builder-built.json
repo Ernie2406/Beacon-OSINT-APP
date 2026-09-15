@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Beacon — Public Photo Finder",
+      "hasCanvas": false,
+      "bodyTextLen": 2021,
+      "bodyTextHash": "744918b882a8a2d8b7c85f43e689e742b155ba39592f3293d2204448e9444650",
+      "bodyTextPrefix": "Skip to content PUBLIC-SOURCE CASEWORK Beacon Find publicly avai",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Beacon — Public Photo Finder",
+      "hasCanvas": false,
+      "bodyTextLen": 2021,
+      "bodyTextHash": "744918b882a8a2d8b7c85f43e689e742b155ba39592f3293d2204448e9444650",
+      "bodyTextPrefix": "Skip to content PUBLIC-SOURCE CASEWORK Beacon Find publicly avai",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
